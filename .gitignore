@@ -1,5 +1,5 @@
-# Ignore node_modules
+# Ignore all node_modules folders recursively
 node_modules/
 
-# Ignore environment files
-.env
+# Ignore all .env files recursively
+*.env
